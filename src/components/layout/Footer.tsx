@@ -39,7 +39,7 @@ export const Footer = () => {
           <div className="space-y-4">
             <Link to="/" className="flex items-center gap-2">
               <Crown className="w-8 h-8 text-accent" />
-              <span className="font-display text-xl font-bold">Ajit Bakery & Snake</span>
+              <span className="font-display text-xl font-bold">Ajit Bakery & Snacks</span>
             </Link>
             <p className="text-primary-foreground/80 font-elegant text-sm leading-relaxed">
               Crafting royal confections since generations. We bring you the finest 
@@ -106,7 +106,7 @@ export const Footer = () => {
               <li className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 text-accent shrink-0 mt-0.5" />
                 <span className="text-primary-foreground/80 text-sm">
-                  Ajni squre, Nagpur
+                  Ajni Squre, Nagpur
                 </span>
               </li>
               <li className="flex items-center gap-3">
@@ -115,7 +115,7 @@ export const Footer = () => {
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="w-5 h-5 text-accent shrink-0" />
-                <span className="text-primary-foreground/80 text-sm">info@AjitBakerySnake.in</span>
+                <span className="text-primary-foreground/80 text-sm">info@ajitbakerysnacks.in</span>
               </li>
               <li className="flex items-center gap-3">
                 <Clock className="w-5 h-5 text-accent shrink-0" />
@@ -131,7 +131,7 @@ export const Footer = () => {
         <div className="container mx-auto px-4 py-6">
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
             <p className="text-primary-foreground/60 text-sm text-center md:text-left">
-              © 2026 Ajit Bakery & Snake. All rights reserved. Made with ❤️ in India
+              © 2026 Ajit Bakery & Snacks. All rights reserved. Made with ❤️ in India
             </p>
             <div className="flex items-center gap-4">
               <img src="https://cdn-icons-png.flaticon.com/512/5968/5968299.png" alt="UPI" className="h-6 opacity-80" />
